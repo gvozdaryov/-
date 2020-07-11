@@ -1,0 +1,17 @@
+git init инициализация проекта папки
+
+
+git config --local user.name "Vlad"
+git config --local user.email "gvozdarevv9@gmail.com"  регистрируем пользователя 
+
+
+git status  статус файлов
+
+
+git add -A  добавить все файлы
+
+
+git commit -a -m "сообщение"
+
+
+git clone
